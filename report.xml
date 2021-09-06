@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ResultsSession buildId="Default Project-2021-09-06" date="09/06/21 15:31:29" machine="XVMXDODCDEV503" project="Default Project" tag="Example Configuration" time="2021-09-06T15:31:29+05:30" toolName="SOAtest" toolVer="9.10.6.20180927" user="AC93330">
+   <TestConfig machine="XVMXDODCDEV503" name="Example Configuration" pseudoUrl="soatest.user://Example Configuration" user="AC93330" />
+   <Authors />
+   <VersionInfos>
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.execution" resultId="IFunctionalTestViolation" ver="3" />
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.execution" resultId="ICoverageCalculationResult" ver="1" />
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.codereview" resultId="ICodeReviewUndefinedAuthorsInfo" ver="1" />
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.codereview" resultId="ICodeReviewScannerInfo" ver="2" />
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.scope" resultId="IScopeProjectInfo" ver="3" />
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IMetricsViolation" ver="2" />
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IDupCodeViolation" ver="2" />
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IMetricEstimationInfo" ver="2" />
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IFlowAnalysisViolation" ver="2" />
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="ICodingStandardsViolation" ver="2" />
+   </VersionInfos>
+   <Exec assoc="true">
+      <AssocUrls />
+   </Exec>
+   
+   
+   <Scope />
+   <FunctionalTests ownerId="com.parasoft.xtest.checkers.api.execution" time="0:00:00">
+      <Goals>
+         <Goal mode="1" name="Functional Test Violations" type="4" />
+         <Goal mode="1" name="Runtime Error Detection Violations" type="5" />
+      </Goals>
+      
+      <Categories>
+         <Category desc="" id="4" label="Fix Functional Test Violations" label0="Fix Functional Test" label1="Violations" name="Functional Test Violations">
+            <SubCategory id="8" name="Functional Failures" short="functional failure" />
+            <SubCategory id="10" name="XML Validation Errors" short="XML validation error" />
+            <SubCategory id="11" name="Miscellaneous Errors" short="miscellaneous error" />
+         </Category>
+         <Category desc="" id="6" label="Review Change Impact" label0="Review" label1="Change Impact" name="Change Impact">
+            <SubCategory id="16" name="Change Impact" short="change impact" />
+         </Category>
+      </Categories>
+   </FunctionalTests>
+   <AssocUrls />
+</ResultsSession>
